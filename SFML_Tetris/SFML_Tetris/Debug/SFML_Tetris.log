@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Artem Mingazov\source\repos\SFML_Tetris\SFML_Tetris\main.cpp(290,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Artem Mingazov\source\repos\SFML_Tetris\SFML_Tetris\main.cpp(291,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Artem Mingazov\source\repos\SFML_Tetris\SFML_Tetris\main.cpp(364,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFML_Tetris.vcxproj -> C:\Users\Artem Mingazov\source\repos\SFML_Tetris\Debug\SFML_Tetris.exe
